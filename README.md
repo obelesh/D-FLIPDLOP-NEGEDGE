@@ -64,12 +64,8 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![Screenshot 2025-01-01 211105](https://github.com/user-attachments/assets/f53be581-5e02-483d-a560-17e77257a432)
-
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![Screenshot 2025-01-01 211241](https://github.com/user-attachments/assets/0cf5ff83-5707-42ae-aaf0-8e08b4a60b26)
-
-
 **RESULTS**
 
 Thus the D flipflop is implemented and verified.
