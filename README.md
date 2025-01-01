@@ -71,4 +71,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus the D flipflop is implemented and verified.
